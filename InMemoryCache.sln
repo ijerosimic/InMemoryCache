@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCache", "InMemoryCache\InMemoryCache.csproj", "{7F3CBBB5-6D48-4E94-9EDB-2451C358BEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheTests", "InMemoryCacheTests\InMemoryCacheTests.csproj", "{C4C6ABD9-0F24-43C8-8F33-7CF264B08A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3CBBB5-6D48-4E94-9EDB-2451C358BEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3CBBB5-6D48-4E94-9EDB-2451C358BEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3CBBB5-6D48-4E94-9EDB-2451C358BEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3CBBB5-6D48-4E94-9EDB-2451C358BEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C6ABD9-0F24-43C8-8F33-7CF264B08A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C6ABD9-0F24-43C8-8F33-7CF264B08A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C6ABD9-0F24-43C8-8F33-7CF264B08A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C6ABD9-0F24-43C8-8F33-7CF264B08A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
